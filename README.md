@@ -5,7 +5,7 @@ I keep on trying new things like web dev, cyber, game developement and offcourse
 
 #Technical Skills:
 
-Languages: C, C++, Python, R#
+Languages: C, C++, Python, R
 
 Database: MySQL, PostgreSQL, Oracle DB, Power BI 
 
