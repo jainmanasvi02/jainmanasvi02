@@ -7,7 +7,7 @@ I keep on trying new things like web dev, cyber, game developement and offcourse
 
 Languages: C, C++, Python, R
 
-Database: MySQL, PostgreSQL, Oracle DB, Power BI 
+Database: MySQL, PostgreSQL, Oracle DB, Power BI, Azure Cosmos DB, MongoDB
 
 Libraries: Pandas, Numpy, TensorFlow, NLTK, OpenCV, Mediapipe, Scikit-learn, Matplotlib, Seaborn
 
@@ -23,5 +23,3 @@ AIML: Neural Networks, Transformers, NLP, Machine Learning models, Computer visi
 
 Connect With Me: www.linkedin.com/in/manasvi-jain-781bb524b
 
-
-"Code. Learn. Build. Repeat."
