@@ -1,6 +1,6 @@
 #  About Me:
 HI! I am a budding Data Scientist who loves to explore data and do the math to get some useful information out of it. 
-I keep on trying new things like web dev, cyber, game developement and offcourse our latest trends like AI. R ag, transformers, neural networks and what not. But the key idea is that in the end everything has Mathematics behind it, which makes everything logical to understand. So here I am with me nerdy interests and a dire desire to learn new things.
+I keep on trying new things like web dev, cyber, game developement and offcourse our latest trends like AI. Rag, transformers, neural networks and what not. But the key idea is that in the end everything has Mathematics behind it, which makes everything logical to understand. So here I am with me nerdy interests and a dire desire to learn new things.
 
 
 #Technical Skills:
